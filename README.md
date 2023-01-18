@@ -5,6 +5,7 @@
 - [Description](#description)
 - [Technology](#technology)
 - [Installation](#installation)
+- [Walkthrough Video](#walkthroughvideo)
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#contribution)
@@ -25,6 +26,9 @@ You can create, update and delete users, add or remove friends, add, update or r
 ## Installation
 
 Install locally by running 'npm install' or 'npm i'.
+
+## Link to walkthrough video: 
+https://drive.google.com/file/d/1KAwHFlyHqgKQl9MSy6XxyNbf9T0dGSlo/view
 
 ## Usage
 
