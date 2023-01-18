@@ -11,8 +11,8 @@
 - [Questions](#questions)
 
 ## Description:
-
-An API for a social media network. You can create, update and delete users, add or remove friends, add, update or remove thoughts, as well as add and remove reactions.
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
+You can create, update and delete users, add or remove friends, add, update or remove thoughts, as well as add and remove reactions.
 
 ## Technologies used:
 
