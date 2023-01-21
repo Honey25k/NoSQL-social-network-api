@@ -17,7 +17,7 @@ const addDateSuffix = (date) => {
     return dateStr;
   };
   
-  
+  // function to format a timestamp
   module.exports = (
     timestamp,
     { monthLength = 'short', dateSuffix = true } = {}
